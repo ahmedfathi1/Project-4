@@ -1,6 +1,7 @@
 # Project 4
 
 
+![Chicago Crimes Tableau Dashboard](Dashboard_Viz.png)
 
 
  
